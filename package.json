@@ -1,0 +1,21 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "Welcome to **React-components**  \r My personal stash of handy, reusable React components!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^24.0.10",
+    "@types/react": "^19.1.8",
+    "jsdom": "^26.1.0",
+    "react": "^19.1.0",
+    "vitest": "^3.2.4"
+  }
+}
